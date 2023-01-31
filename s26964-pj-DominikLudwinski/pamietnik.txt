@@ -22,4 +22,14 @@ Mój drogi pamiętniku, na zajęciach nauczyłem się:
 -dzięki takiej formie zajęć dużo więcej rozumiałem
 -nie miałem wcześniej większej styczności z linuxem ale narazie daję radę
 -nauczyłem się nowych komend, które uważam że mogą mi się kiedyś przydać w życiu prywatnym
-
+--------------------------------------------------------------------------------------------
+29.01.2023r
+-ostatnio zapomniałem trochę o tobie ponieważ miałem dużo nauki na kolokwia i egzaminy
+z zajęć o powershell:
+-dowiedziałem się o konwencji nazwniczej poleceń
+-poznałem kilka podstawowych poleceń powershela
+-dowiedziałem się jak odpalać skrypty
+-za pomocą WMI można zarządzać systemem
+-za pomocą polecenia Get-PSDrive można wylistować dyski
+-PS wydaje się być potężnym narzędziem, chciałbym go opanować w podstawowym stopniu abym
+mógł wykorzystać jego moc do prostych codziennych automatyzacji
